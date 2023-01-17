@@ -3,13 +3,13 @@ body{
 }
 
 .container{
-    padding-left: 50px;
+    padding-left: 100px;
 }
 
 /*Contenitore*/
 .contenitore{
     background-image: url(../img/pattern.png);
-    background-color:#4ea0ff;
+    background-color:#932bbf;
     height: 180px;
 }
 
